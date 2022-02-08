@@ -2,10 +2,10 @@ Please Note:-
 
 After taking a zip or git clone of the project, open a terminal at the folder location and do
 
-npm run server
+### `npm run server`
 Go to VS Code and do
 
-npm start
+### `npm start`
 to start the application, it will reflect the changes added in databse db.json
 
 Runs the app in the development mode.\
