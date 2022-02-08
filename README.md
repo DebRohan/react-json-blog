@@ -1,12 +1,12 @@
-# Getting Started with Create React App
+Please Note:-
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+After taking a zip or git clone of the project, open a terminal at the folder location and do
 
-## Available Scripts
+npm run server
+Go to VS Code and do
 
-In the project directory, you can run:
-
-### `npm start`
+npm start
+to start the application, it will reflect the changes added in databse db.json
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
